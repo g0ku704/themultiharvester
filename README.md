@@ -7,7 +7,7 @@ Usage: python multimail.py [filename]
 Results will be saved in maillist.txt file
 
 - example list:
-  abc.com\n
+  abc.com
   def.com
 
 - example output:
