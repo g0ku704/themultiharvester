@@ -6,12 +6,12 @@ Usage: python multimail.py [filename]
 
 Results will be saved in maillist.txt file
 
-- example list:
+- example list:</br>
   abc.com </br>
   def.com
 
-- example output:
-  info@abc.com
-  contact@abc.com
-  info@def.com
+- example output:</br>
+  info@abc.com</br>
+  contact@abc.com</br>
+  info@def.com</br>
   contact@def.com
