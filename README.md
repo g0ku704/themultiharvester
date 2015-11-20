@@ -8,10 +8,14 @@ Results will be saved in maillist.txt file
 
 - example list:</br>
   abc.com </br>
-  def.com
+  def.com </br>
+  ghi.com
 
 - example output:</br>
   info@abc.com</br>
   contact@abc.com</br>
+  alex@abc.com</br>
   info@def.com</br>
-  contact@def.com
+  contact@def.com</br>
+  bruce@ghi.com</br>
+  hr@ghi.com
